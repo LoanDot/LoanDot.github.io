@@ -2,6 +2,11 @@
   color: orange;
 }
 
+head {
+  background-image: url(‘https://github.com/LoanDot/LoanDot.github.io/blob/main/retrolarge.png?raw=true’);
+  color: #FFFFFF;
+}
+
 body {
   background-image: url(‘https://github.com/LoanDot/LoanDot.github.io/blob/main/retrolarge.png?raw=true’);
   color: #FFFFFF;
