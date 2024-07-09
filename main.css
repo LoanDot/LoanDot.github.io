@@ -1,4 +1,3 @@
-body {
-    background-image: url(‘retrolarge.png’);
-    color: #FFFFFF;
-  }
+* {
+  color: orange;
+}
